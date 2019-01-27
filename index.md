@@ -1,37 +1,79 @@
-## Welcome to GitHub Pages
+영상커미션
 
-You can use the [editor on GitHub](https://github.com/CAMOD/camod.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A타입
+매드무비
 
-### Markdown
+배경음악과 간단한 전환효과, 색상보정을 추가한 하이라이트 영상
+시간 : 최대 3분 (1분 추가시 10000원)
+가격 : 25000 20000
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+*샘플영상이 충분히 모일때까지 할인된 가격으로 커미션을 받을 예정입니다. 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+B타입
 
-- Bulleted
-- List
+프랙무비
+영상과 싱크를 맞춘 배경음악, 슬로우, 모션트레킹, 색상보정, 전환효과 등
+*원하는 효과가 있으시면 문의해주세요. 3D효과 & CG 등 사용할 효과에 따라서는 추가비용이 발생할 수 있습니다.
 
-1. Numbered
-2. List
+약 2분 (1분 추가시 15000원)
 
-**Bold** and _Italic_ and `Code` text
+가격
+60000 50000
 
-[Link](url) and ![Image](src)
-```
+*샘플영상이 충분히 모일때까지 할인된 가격으로 커미션을 받을 예정입니다. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+기본 3분
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CAMOD/camod.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+'소스영상의 퀄리티 = 결과물의 퀄리티' 입니다.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+소스영상의 해상도, 프레임레이트, 비트레이트가 낮을 경우 편집과정에서 화질을 개선할 수 없다는 점 참고해주세요.
+
+해상도는 최소 720p (1280*720)이상을 권장하며 1080p(1920*1080)를 권장드립니다.
+1440p이상의 영상도 받고 있습니다만, 최종작업물은 1080p로 출력됩니다.
+
+A타입의 경우 30프레임 이상,
+B타입의 경우 60프레임 이상의 프레임레이트를 권장합니다.(30p 영상으로 제작시 슬로우효과 사용에 크게 제약이 있습니다.)
+
+사용프로그램 : 어도비 프리미어 & 에프터 이펙트
+
+아래는 최종 출력물의 파일포멧입니다.
+해상도 : (소스해상도)
+프레임레이트 : 30p
+코덱 : H.264 (mp4)
+비트레이트 : 10000
+
+오디오
+320
+44,100Hz
+
+
+
+■ 입금 안내
+커미션 신청 시 입금 계좌를 알려드립니다.
+(우리은행, 카카오뱅크)
+​
+■ 가격
+​
+■ 환불 안내
+입금확인 후 원본 영상을 받기 전까지는 전액환불 가능합니다.
+영상 작업이 시작된 이후에는 환불이 불가합니다.
+​
+■ 업로드
+ 커미션 샘플로 사용하기 위해 개인 유튜브에 영상이 올라갑니다.
+
+작업기간
+A타입 : 10일 ~ 최대 2주
+B타입 : 20일 ~ 최대 4주
+​
+■ 작업과정
+문의> 입금 확인> 원본 영상 확인> 작업
+
+작업스타일상 진행과정이 순차적이지 않기 때문에 별도의 컨펌은 받지 않고 있습니다. 
+처음 의뢰하실때 원하는 영상 스타일을 자세하게 설명 해주시는 게 좋습니다.
+다만 완성작에서 간단한 수정은 가능합니다. (색감,필터 등)
+
+의뢰받는 영상 하나하나 제 이름이 남는 작품이라는 생각으로 작업하고 있습니다.
